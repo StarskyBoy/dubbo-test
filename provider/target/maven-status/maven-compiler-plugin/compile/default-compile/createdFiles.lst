@@ -1,0 +1,3 @@
+com\midou\provider\server\DemoServer.class
+com\midou\provider\server\impl\DemoServiceImpl.class
+com\midou\provider\entity\User.class

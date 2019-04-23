@@ -15,7 +15,7 @@ zookeeper+dubbo入门搭建+dubbo的管理后台使用
 
 #### 使用说明
 
-https://mp.weixin.qq.com/s/rDZ2DxrDecXBhAocWMnR-Q
+- https://mp.weixin.qq.com/s/rDZ2DxrDecXBhAocWMnR-Q
 
 #### 贡献者
 

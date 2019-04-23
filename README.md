@@ -19,19 +19,28 @@ zookeeper+dubbo入门搭建+dubbo的管理后台使用
 2. xxxx
 3. xxxx
 
-#### 参与贡献
+#### 贡献者
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+- StarskyBoy
+
+#### 交流群
+
+- <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5zWEvg5"> 727542913</a>   
 
 
-#### 码云特技
+#### 源码
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. gitee：https://gitee.com/StarskyBoy 
+2. github：https://github.com/StarskyBoy
+3. csdn(待更新)：https://blog.csdn.net/StarskyBoy
+
+
+#### 博客
+
+1. 公众号（米兜Java）：一个注在共享、交流的Java学习平台。
+2. 微信号（midouJava）：一个喜欢共享、交流的boy。
+3. csdn(待更新)：https://blog.csdn.net/StarskyBoy
+
+| 公众号                 | 微信号                 |
+| --------------------- | --------------------- |
+| ![](https://images.gitee.com/uploads/images/2018/0903/082319_bae6574f_2060340.jpeg "米兜Java.jpg") | ![](https://images.gitee.com/uploads/images/2018/0903/082200_00c55dfb_2060340.jpeg "个人微信.jpg") |
